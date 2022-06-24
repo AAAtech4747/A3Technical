@@ -1,0 +1,106 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
+
+*{  
+    box-sizing: border-box;
+    font-family: 'Ubuntu', sans-serif;
+ }
+
+.navbar { background-color:aliceblue !important; }
+
+.navbar-brand{
+    font-size: 1.9rem !important;
+    color: #565387 !important;
+}
+.navbar a{
+    font-size: 1.3rem;
+    text-transform: capitalize;
+}
+.navbar{
+    background-color: rgb(255, 255, 255) !important;
+}
+.menu_active{
+    font-weight: bold;
+    border-bottom: 1px solid #2a74f8;   ;
+}
+.navbar a:hover{color:#2a74f8 !important;}
+
+@media (max-width: 991px){
+    .navbar-brand{
+        font-size: 1.5rem !important;
+    }
+
+
+.menu_active {
+    font-weight: bold;
+    border-bottom: 1px solid black;
+
+}
+}
+
+#header {
+    width: 100%;
+    height: 80vh;
+    margin-top: 70px;
+}
+
+#header h1{
+    margin: 0 0 10px 0;
+    font-size: 48px;
+    font-weight: 700;
+    color: black;
+}
+
+#header .brand-name{
+    color: #2a74f8;
+}
+
+#header h2{
+    font-size: 24px;
+    color:black;
+}
+
+#header .btn-get-started{
+    font-weight: 800;
+    font-size: 20px;
+    letter-spacing: 1px;
+    display: inline-block;
+    padding: 10px 30px;
+    border-radius: 50px;
+    transition: 0.3s;
+    color: #2a74f8;
+    border: 2px solid #2a74f8;
+    text-decoration: none;
+}
+
+#header .btn-get-started:hover {
+    background: #2a74f8;
+    color: aliceblue;
+}
+
+#header .animated{
+    animation: up-down 2s ease-in-out infinite alternate-reverse both;
+}
+.card-img-top{
+    height: 200px;
+    object-fit: cover;
+}
+
+@-webkit-keyframes up-down{
+    0%{
+        transform: translateY(10px);
+    }
+    100%{
+        transform: translateY(-10px);
+    }
+}
+
+@keyframes up-down{
+    0%{
+        transform: translateY(10px);
+    }
+    100%{
+        transform: translateY(-10px);
+    }
+}
