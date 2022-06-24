@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/A3Technical/static/css/main.06e714c2.css",
+    "main.js": "/A3Technical/static/js/main.f6350c0d.js",
+    "static/js/787.28cb0dcd.chunk.js": "/A3Technical/static/js/787.28cb0dcd.chunk.js",
+    "static/media/image.png": "/A3Technical/static/media/image.fb9213952284fa0852dd.png",
+    "static/media/webdevlopment.jpg": "/A3Technical/static/media/webdevlopment.31ffeb0d1d9cdc5cc51b.jpg",
+    "static/media/image1.png": "/A3Technical/static/media/image1.6cb0ac595d6548f6ec03.png",
+    "static/media/dm.jpg": "/A3Technical/static/media/dm.41b3258840ecc5b8882c.jpg",
+    "static/media/Android.jpg": "/A3Technical/static/media/Android.0dd04d17d525831b09bc.jpg",
+    "static/media/rooting.jpg": "/A3Technical/static/media/rooting.a7c24c7988856da3a83e.jpg",
+    "static/media/seo.jpg": "/A3Technical/static/media/seo.f0e3ebc3923700b513a6.jpg",
+    "index.html": "/A3Technical/index.html",
+    "main.06e714c2.css.map": "/A3Technical/static/css/main.06e714c2.css.map",
+    "main.f6350c0d.js.map": "/A3Technical/static/js/main.f6350c0d.js.map",
+    "787.28cb0dcd.chunk.js.map": "/A3Technical/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06e714c2.css",
+    "static/js/main.f6350c0d.js"
+  ]
+}
